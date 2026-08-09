@@ -5,14 +5,14 @@
 
 ## 🌟 核心亮点
 *   **数据驱动**：基于948份一手调研数据，覆盖全国31个省级行政区。
+![](https://github.com/ykiii5277-web/Z-Gen-Gaming-Analysis-2026/blob/7a8a783b487fa1fd72d649b00fc678f8b20785b2/Questionnaire/%E5%9C%B0%E5%9F%9F%E5%88%86%E5%B8%83%E5%9B%BE.png)
 *   **方法创新**：采用 **K-Prototypes** 算法解决混合数据类型（数值+分类）的聚类难题。
 *   **模型融合**：结合 **多元Logit回归** 的可解释性与 **随机森林** 的非线性预测能力。
 *   ![](https://github.com/ykiii5277-web/Z-Gen-Gaming-Analysis-2026/blob/67a160d15c67a0417bed9b0bf6d7c35baf0790ad/Results/03_Figures/%E9%9A%8F%E6%9C%BA%E6%A3%AE%E6%9E%97/%E5%A4%9A%E5%85%83Logit%E4%B8%8E%E9%9A%8F%E6%9C%BA%E6%A3%AE%E6%9E%97%E7%9A%84%E5%AF%B9%E6%AF%94%E4%B8%8E%E4%BA%92%E8%A1%A5.png)
 *   **洞察深刻**：识别出“多元付费型”、“低龄轻量型”、“大众休闲型”、“核心沉浸型”四类典型玩家画像。
-
+![](https://github.com/ykiii5277-web/Z-Gen-Gaming-Analysis-2026/blob/889e8772b242c80c9b22e4a85c300d1dc6cd20de/Results/03_Figures/K-Prototypes%E8%81%9A%E7%B1%BB/%E5%9B%9B%E7%B1%BB%E7%8E%A9%E5%AE%B6%E7%BE%A4%E4%BD%93%E6%A0%B8%E5%BF%83%E7%94%BB%E5%83%8F.png)
 ## 📊 主要结论
 1.  **群体画像**：将玩家划分为四类，其中大众休闲型占比最高(37.6%)，核心沉浸型最具潜力。
- ![](https://github.com/ykiii5277-web/Z-Gen-Gaming-Analysis-2026/blob/889e8772b242c80c9b22e4a85c300d1dc6cd20de/Results/03_Figures/K-Prototypes%E8%81%9A%E7%B1%BB/%E5%9B%9B%E7%B1%BB%E7%8E%A9%E5%AE%B6%E7%BE%A4%E4%BD%93%E6%A0%B8%E5%BF%83%E7%94%BB%E5%83%8F.png)
 2.  **态度结构**：验证了游戏态度的二元结构（正面/负面独立并存）。
 3.  **趋势预测**：未来3-5年玩家结构将向“高参与、高品质、高社交”方向演化。
 
