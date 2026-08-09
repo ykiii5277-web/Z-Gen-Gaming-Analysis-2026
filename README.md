@@ -11,6 +11,7 @@
 
 ## 📊 主要结论
 1.  **群体画像**：将玩家划分为四类，其中大众休闲型占比最高(37.6%)，核心沉浸型最具潜力。
+ ![](https://github.com/ykiii5277-web/Z-Gen-Gaming-Analysis-2026/blob/889e8772b242c80c9b22e4a85c300d1dc6cd20de/Results/03_Figures/K-Prototypes%E8%81%9A%E7%B1%BB/%E5%9B%9B%E7%B1%BB%E7%8E%A9%E5%AE%B6%E7%BE%A4%E4%BD%93%E6%A0%B8%E5%BF%83%E7%94%BB%E5%83%8F.png)
 2.  **态度结构**：验证了游戏态度的二元结构（正面/负面独立并存）。
 3.  **趋势预测**：未来3-5年玩家结构将向“高参与、高品质、高社交”方向演化。
 
