@@ -5,7 +5,7 @@
 
 ## 🌟 核心亮点
 *   **数据驱动**：基于948份一手调研数据，覆盖全国31个省级行政区。
-![](https://github.com/ykiii5277-web/Z-Gen-Gaming-Analysis-2026/blob/7a8a783b487fa1fd72d649b00fc678f8b20785b2/Questionnaire/%E5%9C%B0%E5%9F%9F%E5%88%86%E5%B8%83%E5%9B%BE.png)
+![](https://github.com/ykiii5277-web/Z-Gen-Gaming-Analysis-2026/blob/5eaef20a4c56b6ddeb51f26847abf958be37afb0/Questionnaire/%E5%9C%B0%E5%9F%9F%E9%A2%91%E6%95%B0%E5%9B%BE.png)
 *   **方法创新**：采用 **K-Prototypes** 算法解决混合数据类型（数值+分类）的聚类难题。
 ![](https://github.com/ykiii5277-web/Z-Gen-Gaming-Analysis-2026/blob/93daa2a2431700688cc4b3eae6adaa06d480efa6/Results/03_Figures/K-Prototypes%E8%81%9A%E7%B1%BB/%E8%81%9A%E7%B1%BB%E7%BB%84%E6%96%B9%E5%B7%AE%E5%88%86%E6%9E%90%E7%BB%93%E6%9E%9C.png)
 *   **模型融合**：结合 **多元Logit回归** 的可解释性与 **随机森林** 的非线性预测能力。
